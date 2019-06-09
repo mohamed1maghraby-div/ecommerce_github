@@ -1,0 +1,47 @@
+*{margin:0px; padding:0;}
+body{direction:rtl;}
+.r{float:right;}
+.l{float:left;}
+.c{clear:both;}
+.w{width:1000px; margin:0px auto;}
+/*headerTop style*/
+.headerTop{background: url('../images/header.jpg'); }
+.logo{padding:8px;}
+/* menuBar style*/
+.menuBar{background: url('../images/logo-design.jpg');}
+.menuBar ul{list-style:none;}
+.menuBar ul li{float:right; padding:15px 3px; margin-left:5px;}
+.menuBar ul li a{text-decoration:none; font-family:tahoma; font-size:12px; color:#fe6036; padding:10px ; border-radius:3px; }
+.menuBar ul li a:hover{background:#fe6036; color:#fff;}
+/* search area*/
+.search{background:#f5f5f5; border-bottom:3px solid #ccc; padding:5px;}
+.searchForm input[type=text]{padding:6px; font-family:tahoma; color:#ccc; width:150px; border:1px solid #eee; border-radius:3px;}
+.sochil ul{list-style:none; margin-top:2px;}
+.sochil ul li{float:right; padding:5px 10px;}
+.sochil ul li a{color:#555;}
+.sochil ul li a:hover{color:#999;}
+/*content style*/
+.content ul {list-style:none;}
+.content ul  li{float:right; margin-left:13px;}
+.product{margin:0px; padding:0px;}
+#pro_img img {border-radius:4px;}
+#pro_img img:hover{opacity: 0.7;}
+#pro_title a{text-decoration:none; font-family:tahoma; font-size:12px; font-weight:bold; float:right; color:#000; margin:5px;}
+#pro_bay{float:left; margin:5px; }
+/*footer style*/
+.footer{background:#999; padding:25px 10px;}
+.footerMenu ul {list-style:none;}
+.footerMenu ul li{float:right; margin-left:7px; padding:7px;}
+.footerMenu ul  li a{text-decoration:none; color:#fff; font-size:12px; font-family:tahoma;}
+.footerMenu ul li a:hover{text-decoration:underline;}
+.copyRight{background:#777; color:#fff; font-family:tahoma; font-size:12px; text-align:center; padding:10px;}
+.error{background-color: rgba(255, 98,56,0.76); border:1px solid #fc5d33; padding:10px; font-family:tahoma; font-size:13px; color:#832309; text-align:center;}
+/*cart area*/
+.cart{font-family:tahoma; color:#555; font-size:12px; font-weight:bold; margin-top:5px;}
+.cart a {color:#fe6036;}
+.panle{background:#fff; border:1px solid #eee;}
+.panle_title{background:#f5f5f5; border-bottom:1px solid #eee; padding:5px; font-size:12px; font-family:tahoma; color:#555; font-weight:bold;}
+.panle_body{ padding:5px; font-size:12px; font-family:tahoma; color:#555;}
+#p_info{padding:5px; border-bottom:1px solid #eee;}
+.lable{float:right; width:100px; text-align:left; margin-top:5px;}
+.panle_body input[type=text]{border:1px solid #eee; padding:5px; font-family:tahoma; margin-right:5px;}
